@@ -292,7 +292,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0}
-    oldSize: {x: 5.8333335, y: 5.8333335}
+    oldSize: {x: 4.1666665, y: 4.1666665}
     newSize: {x: 5.8333335, y: 5.8333335}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -329,13 +329,13 @@ MonoBehaviour:
     m_Bits: 1
   groundCheckFootOffsetY: 0.05
   groundCheckDistance: 0.25
-  hurtBoxSize: {x: 1.6, y: 1.4}
-  hurtBoxOffset: {x: 0, y: 1.35}
+  hurtBoxSize: {x: 1.49, y: 2.94}
+  hurtBoxOffset: {x: 0, y: 1.47}
   attack1BoxSize: {x: 3.54, y: 1.8}
   attack1BoxOffset: {x: -1.35, y: 0.8}
   attack2BoxSize: {x: 5.2, y: 2.4}
   attack2BoxOffset: {x: -2.6, y: 1.2}
-  hpDisplayHeightOverride: 3.43
+  hpDisplayHeightOverride: 3.45
   defaultFramesPerSecond: 8
   spriteRenderer: {fileID: 0}
   idleFrames:
@@ -343,15 +343,6 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 2b83d36eb4a389347b02ececd7f3d702, type: 3}
   - {fileID: 21300000, guid: 2e270bbdce1b8c748b291af36e69ca4d, type: 3}
   - {fileID: 21300000, guid: f02973389db04a547b4ce6da3f789cb6, type: 3}
-  - {fileID: 21300000, guid: 84405976c0b15ad4d8224fea1bf56b79, type: 3}
-  - {fileID: 21300000, guid: 91f59d5de7ecd044b94c9e275409a706, type: 3}
-  - {fileID: 21300000, guid: 674b9becc92ed3441ab266775f687336, type: 3}
-  - {fileID: 21300000, guid: bd8c448bb5591a84aa0d05e0475abaa9, type: 3}
-  - {fileID: 21300000, guid: 5b963035e43230c4f8b0ea646b4c0c87, type: 3}
-  - {fileID: 21300000, guid: 199c670a7a11d8a438e23fe6a74de016, type: 3}
-  - {fileID: 21300000, guid: e4d493ff8253dbf45833281d301b6b24, type: 3}
-  - {fileID: 21300000, guid: b44920f9ac2cb0c448d9abb029522fc4, type: 3}
-  - {fileID: 21300000, guid: 1a7a0b16ed1415641aeb0c0f42829f6a, type: 3}
   walkFrames:
   - {fileID: 21300000, guid: 70820e771581e9a4293cf794e71550a4, type: 3}
   - {fileID: 21300000, guid: 8d49fe018b41619419edf91fc25fd10e, type: 3}
@@ -439,7 +430,11 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 6c4f3a14cc7481047bbab48dd9109044, type: 3}
   - {fileID: 21300000, guid: 934749e52f2961040b96612037ca6220, type: 3}
   reverseWalkFrameOrder: 1
-  idleFrameTimes: []
+  idleFrameTimes:
+  - 0.28
+  - 0.28
+  - 0.28
+  - 0.28
   walkFrameTimes: []
   attack1FrameTimes: []
   attack2FrameTimes: []
