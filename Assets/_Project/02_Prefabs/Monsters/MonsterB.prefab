@@ -329,7 +329,7 @@ MonoBehaviour:
     m_Bits: 1
   groundCheckFootOffsetY: 0.05
   groundCheckDistance: 0.25
-  hurtBoxSize: {x: 1.49, y: 2.94}
+  hurtBoxSize: {x: 1.12, y: 2.57}
   hurtBoxOffset: {x: 0, y: 1.47}
   attack1BoxSize: {x: 3.54, y: 1.8}
   attack1BoxOffset: {x: -1.35, y: 0.8}
@@ -350,28 +350,6 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b55e4887157dfea469eb6e0754f33e50, type: 3}
   - {fileID: 21300000, guid: 4e124723385a29f45b682889de689cfa, type: 3}
   - {fileID: 21300000, guid: bca804e5bdc207044b4868bb9b7c0bac, type: 3}
-  - {fileID: 21300000, guid: bf30235c4d7f78d4c9e3297743e16c31, type: 3}
-  - {fileID: 21300000, guid: 33aaee87dc6cf8b4f9403fb208dc6187, type: 3}
-  - {fileID: 21300000, guid: 09180cefc456f524481f1c3eb429cf47, type: 3}
-  - {fileID: 21300000, guid: 5dccdb4cafe40a3488eedaefa34dacfa, type: 3}
-  - {fileID: 21300000, guid: 54950411d7162c44f89496064b9a03bb, type: 3}
-  - {fileID: 21300000, guid: 89b56481a719d8842bbaf5002af6ebce, type: 3}
-  - {fileID: 21300000, guid: f0d0c8e62e2c7d8459d3dc7e6a572a69, type: 3}
-  - {fileID: 21300000, guid: c603c7775df44654c83922187bf43b57, type: 3}
-  - {fileID: 21300000, guid: 976848ed45111754a8352dcb91fe39c9, type: 3}
-  - {fileID: 21300000, guid: 77fc62a660fee7146b00b71112303c72, type: 3}
-  - {fileID: 21300000, guid: 4879e0e302104564dbeb623881e0c6a1, type: 3}
-  - {fileID: 21300000, guid: dcbb31841326cd642a4905a97fcf26a4, type: 3}
-  - {fileID: 21300000, guid: 5c182070514cdfb428a6170d4c5c8d4a, type: 3}
-  - {fileID: 21300000, guid: 042568fdbd04c794bbf1957bf0e240f0, type: 3}
-  - {fileID: 21300000, guid: 9f04de9b79fada243810829ee08cda6e, type: 3}
-  - {fileID: 21300000, guid: 5688cd5a99e5a0a4f900e57eed495ae2, type: 3}
-  - {fileID: 21300000, guid: 4b7770aa10c359041b6f59f6bd5b1537, type: 3}
-  - {fileID: 21300000, guid: 6e5c1fa0a485c1e4782b68d5321cd53a, type: 3}
-  - {fileID: 21300000, guid: 1265af6669fbfc04d817d1928b37a736, type: 3}
-  - {fileID: 21300000, guid: f543606206e64b946b7746cedc0f74f1, type: 3}
-  - {fileID: 21300000, guid: d08224412d42aaa47a872f6ed2afc227, type: 3}
-  - {fileID: 21300000, guid: 6e551ab5a7d761e429421da1ff9d069c, type: 3}
   attack1Frames:
   - {fileID: 21300000, guid: 0407d00ebe3e43baa881974acc52d9f4, type: 3}
   - {fileID: 21300000, guid: 3e2a0a1b9f0946bf866c4ca72432f6b7, type: 3}
@@ -381,17 +359,6 @@ MonoBehaviour:
   - {fileID: 21300000, guid: d9a4d6627d6546db8bcb10042947b898, type: 3}
   - {fileID: 21300000, guid: 0b6943bab8aa49e182b60920b4b77ea7, type: 3}
   - {fileID: 21300000, guid: 337bb5ec456142bd8d1089a9441237f0, type: 3}
-  - {fileID: 21300000, guid: b3b0c15ffe264b61a13c7f8b3fcd7e91, type: 3}
-  - {fileID: 21300000, guid: 9e94db83f06a43b79cfeaa391ed8bad8, type: 3}
-  - {fileID: 21300000, guid: 081c915afbd94b59b3defef1b2d3152a, type: 3}
-  - {fileID: 21300000, guid: 2aa931e8fc1945e99f792cbc9fccb406, type: 3}
-  - {fileID: 21300000, guid: d3fc35cd37e24ce6bf3d6721f71e85aa, type: 3}
-  - {fileID: 21300000, guid: da5ed26dcc9e41a39e5482b09d5bc8d3, type: 3}
-  - {fileID: 21300000, guid: 4ae798de9f3343f0b2972afbc2c6f437, type: 3}
-  - {fileID: 21300000, guid: 324a9b9ef2c34a8684316da47df72209, type: 3}
-  - {fileID: 21300000, guid: 22886b5d7a0a4ec5bf291ec511c0fff6, type: 3}
-  - {fileID: 21300000, guid: fadaaf9567214df1a3cba58df1de47f7, type: 3}
-  - {fileID: 21300000, guid: a8dca120e455457f90b7308870259292, type: 3}
   attack2Frames:
   - {fileID: 21300000, guid: 56e0ca3da8f044d18d4d1e87ee3ff388, type: 3}
   - {fileID: 21300000, guid: d4b5b1be4b2f4945bed29169a1da97ce, type: 3}
@@ -446,10 +413,10 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 764680546e160784abebe20710349412, type: 3}
   - {fileID: 21300000, guid: 5d39a9910805b2d4cacf9dbc85c0606b, type: 3}
   - {fileID: 21300000, guid: e34c8513d07e9c84ea16c324ea095e6c, type: 3}
-  attack1EffectStartFrame: 15
+  attack1EffectStartFrame: 4
   attack1EffectOffset: {x: -1.85, y: 2.6, z: 0}
   attack1EffectScale: {x: 0.9, y: 0.9, z: 1}
-  attack1DamageFrame: 15
+  attack1DamageFrame: 4
   attack2EffectRenderer: {fileID: 2680925471173150453}
   attack2EffectFrames:
   - {fileID: 21300000, guid: d6759c0dd4348ef43be48615c9292674, type: 3}
